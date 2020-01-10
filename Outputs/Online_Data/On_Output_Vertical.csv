@@ -1,11 +1,11 @@
 ,Valor
-faturamento_total(R$),5641837
-faturamento_fds(R$),1218498
-faturamento_semana(R$),4423339
-perct_fat_fds(%),21.59753995019707
+faturamento_total,5641837
+faturamento_fds,1218498
+faturamento_semana,4423339
+perct_fat_fds,21.59753995019707
 total_vendas_fds,1833
 total_vendas_semana,5460
 total_vendas_qtd,7293
-perct_vendas_fds(%),25.13368983957219
+perct_vendas_fds,25.13368983957219
 produto_mais_comprado,626664333563363
 dia_maior_arrecadacao,Wednesday

@@ -1,2 +1,2 @@
-,faturamento_total(R$),faturamento_id(R$),loja_maior_faturamento,loja_menor_faturamento,total_vendas_fds,total_vendas_semana,total_vendas,perct_vendas_fds(%),gastos_fds(R$),gastos_total(R$),perct_gastos_fds(%)
+,faturamento_total,faturamento_id,loja_maior_faturamento,loja_menor_faturamento,total_vendas_fds,total_vendas_semana,total_vendas,perct_vendas_fds,gastos_fds,gastos_total,perct_gastos_fds
 0,13747940.13,12202226.879999999,6361373-RJ,3234666-RJ,887,3514,4401,20.15,1097666.58,6179551.72,17.76

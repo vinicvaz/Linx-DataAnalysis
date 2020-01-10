@@ -1,2 +1,2 @@
-,faturamento_total(R$),faturamento_fds(R$),faturamento_semana(R$),perct_fat_fds(%),total_vendas_fds,total_vendas_semana,total_vendas_qtd,perct_vendas_fds(%),produto_mais_comprado,dia_maior_arrecadacao
+,faturamento_total,faturamento_fds,faturamento_semana,perct_fat_fds,total_vendas_fds,total_vendas_semana,total_vendas_qtd,perct_vendas_fds,produto_mais_comprado,dia_maior_arrecadacao
 0,5641837,1218498,4423339,21.59753995019707,1833,5460,7293,25.13368983957219,626664333563363,Wednesday
